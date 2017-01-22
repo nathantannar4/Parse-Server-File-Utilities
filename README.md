@@ -1,4 +1,4 @@
-# parse-files-utils
+# Parse-Server-File-Utilities
 [![Build Status](https://travis-ci.org/parse-server-modules/parse-files-utils.svg?branch=master)](https://travis-ci.org/parse-server-modules/parse-files-utils)
 [![codecov](https://codecov.io/gh/parse-server-modules/parse-files-utils/branch/master/graph/badge.svg)](https://codecov.io/gh/parse-server-modules/parse-files-utils)
 
@@ -39,8 +39,8 @@ and Parse Server [issue #1582](https://github.com/ParsePlatform/parse-server/iss
 
 ## Installation
 
-1. Clone the repo: `git clone git@github.com:parse-server-modules/parse-files-utils.git`
-2. cd into repo: `cd parse-files-utils`
+1. Clone the repo
+2. cd into repo: `cd Parse-Server-File-Utilities`
 3. Install dependencies: `npm install`
 
 ## Usage
